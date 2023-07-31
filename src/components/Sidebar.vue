@@ -49,7 +49,7 @@
 
     </aside>
 </template>
-<script setup>
+<script setup  lang="ts">
 import {ref} from "vue"
 const isExpanded = ref(false);
 

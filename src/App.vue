@@ -13,7 +13,7 @@
  </div>
 </template>
 
-<script setup>
+<script setup  lang="ts">
 import SidebarVue from "./components/Sidebar.vue";
 </script>
 
